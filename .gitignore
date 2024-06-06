@@ -1,1 +1,2 @@
-__pycache__
+# add pycache to the list of directories to ignore
+__pycache__/
