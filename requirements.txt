@@ -23,5 +23,3 @@ python-Levenshtein
 colorama
 bert_score
 rouge
-fuzzywuzzy
-collections

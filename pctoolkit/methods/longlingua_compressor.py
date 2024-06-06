@@ -11,7 +11,7 @@ import tiktoken
 import re
 from transformers import AutoConfig, AutoModelForCausalLM, AutoTokenizer
 
-from abs_compressor import AbstractCompressor
+from .abs_compressor import AbstractCompressor
 
 encoding = tiktoken.encoding_for_model("gpt-3.5-turbo")
 

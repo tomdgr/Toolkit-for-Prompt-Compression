@@ -1,7 +1,7 @@
-from .methods.selective_context_compressor import SCCompressor
-from .methods.kis import KiSCompressor
-from .methods.scrl_compressor import SCRLCompressor
-from .methods.llmlingua_compressor_pro import LLMLinguaCompressor
+from pctoolkit.methods.selective_context_compressor import SCCompressor
+from pctoolkit.methods.kis import KiSCompressor
+from pctoolkit.methods.scrl_compressor import SCRLCompressor
+from pctoolkit.methods.llmlingua_compressor_pro import LLMLinguaCompressor
 from typing import List
 
 
